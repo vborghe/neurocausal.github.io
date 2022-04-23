@@ -1,0 +1,18 @@
+# some information about you
+name: "NeuroCausal"
+nickname: "NeuroCausal!"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome to"
+image: "images/author/inverted-logo.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "valentina[dot]borghesani[at]gmail[dot]com"
+  #phone: "+0123456789"
+  github: neurocausal
+  #linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - The future of neuropsychology should be OPEN  
+  - The future of neuropsychology should be FAIR 
+  - The future of neuropsychology should be TRANSDIAGNOSTIC 

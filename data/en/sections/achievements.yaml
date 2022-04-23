@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Funding
+  id: achievements
+  enable: False
+  weight: 8
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: NCCR Evolving Language 
+  image: images/sections/achievements/evolving.png
+  summary: Swiss National Centre of Competence in Research Evolving Language
+- title: SNSF
+  image: images/sections/achievements/snf.png
+  summary: Swiss National Science Foundation 
+- title: UNIGE
+  image: images/sections/achievements/unige.png
+  summary: University of Geneva

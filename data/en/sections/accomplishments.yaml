@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Giants shoulders we stand on 
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your accomplishments
+accomplishments:
+- name: Neuroquery
+  organization:
+    name: Automated meta-analysis of neuroimaging studies.
+    url: https://neuroquery.org/
+  courseOverview: Produces brain maps predicting where a study on the topic of interest is likely report observations
+
+- name: Neurosynth
+  organization:
+    name: Automated meta-analysis of fMRI studies.
+    url: https://neurosynth.org/
+  courseOverview: Tests the consistency of observations reported in the literature
+
+- name: Neurovault
+  organization:
+    name: Public repository of unthresholded brain maps
+    url: https://neurovault.org/
+  courseOverview: A place to store and share unthresholded statistical maps, parcellations, and atlases from MRI and PET studies.
+
+- name: CognitiveAtlas
+  organization:
+    name: Cognitive neuroscience ontology 
+    url: https://www.cognitiveatlas.org/
+  courseOverview: A project developing knowledge base for cognitive neuroscience. 

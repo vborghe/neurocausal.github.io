@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Team & Friends
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Dr. Valentina Borghesani, Ph.D.
+  #logo: images/sections/skills/me2.svg
+  summary: "Assistant Professor in the Psychology Department of the University of Geneva, studying the cognitive and neural correlates of semantic knowledge and their interplay with language"
+  url: "https://linktr.ee/vborghesani"
+
+- name:  Dr. Sladjana Lukic, Ph.D.
+  #logo: /images/sections/skills/sladja.svg
+  summary: "Assistant Professor in the Communication Sciences and Disorders Department of Adelphi University, studying the neurobiology of language and its relation with emotion & cognition."
+  url: "https://sites.google.com/view/sladjanalukic"
+
+- name: Dr. Pedro Chagas, Ph.D.
+  #logo: /images/sections/skills/docker.svg
+  summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
+  url: "https://pinheirochagas.com/"
+
+- name: Isil Bilgin
+  #logo: /images/sections/skills/docker.svg
+  summary: "PhD student at the University of Reading, studying the dynamic reorganization of brain networks supporting concepts learning."
+  #url: "https://pinheirochagas.com/"
+
+- name: You, maybe?
+  #logo: /images/sections/skills/docker.svg
+  summary: "If you believe that the future of neuropyschology should be open, FAIR, and transdiationstic, join us! No matter your background and expertise: everyone is welcome!"
+  #url: "https://pinheirochagas.com/"

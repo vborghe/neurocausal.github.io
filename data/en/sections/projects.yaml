@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: False
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: fMRI
+  filter: "fMRI"
+- name: MEG
+  filter: "MEG"
+- name: EEG
+  filter: "EEG"
+- name: Neuropsychology
+  filter: "Neuropsychology"
+- name: Behavioral
+  filter: "Behavioral"
+
+# your projects
+projects:
+- name: Representing words & concepts
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Piazza & xxx
+  url: "posts/research/representing/"
+  summary: What are the neuro-cognitive correlates of semantic knowledge? We use neuroimaging to study the distributed yet specialized cortical networks involved.
+  tags: ["fMRI","MEG"]
+
+- name: Loosing words & concepts
+  logo: images/author/1299786.svg
+  role:  NoCe members, Drs. Gorno-Tempini & Lukic
+  url: "posts/research/loosing/"
+  summary: We also study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
+  tags: ["MEG", "Neuropsychology"]
+
+- name: Learning words & concepts
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Piazza, Vigano & Bilgin
+  url: "posts/research/learning/"
+  summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
+  tags: ["fMRI", "EEG"]
+
+- name: Concepts across languages and cultures
+  logo: images/author/1299786.svg
+  role: NoCe members
+  url: "posts/research/multi/"
+  summary: We are interested in cross-linguistic and cross-culturale differences.
+  tags: ["fMRI", "Neuropsychology"]
+
+- name: Concepts & words across people
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Gorno-Tempini & Chagas
+  url: "posts/research/langnetwork/"
+  summary: We are interested in individual differences in language processing.
+  tags: ["fMRI"]
+
+- name: Mathematical Cognition
+  logo: images/author/1299786.svg
+  role: NoCE members, Drs. Gorno-Tempini & Chagas
+  url: "posts/research/math/"
+  summary: Both in normal and pathological conditions, we study a special set of concepts - math ones.
+  tags: ["fMRI", "Neuropsychology"]
