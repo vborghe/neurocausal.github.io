@@ -12,31 +12,28 @@ section:
 experiences:
 
 - company:
-    name: We are planning on attending the OHBM hackathon to work on the development of the platform.
+    name: OHBM hackathon here we come!
+    overview: We are planning on attending the OHBM hackathon to work on the development of the platform. Our short-term goals can be broken into three steps. First, define which vocabulary we need to enable the mapping lesion-to-symptom;  an ontological problem we are trying to solve merging our clinical expertise with community tools such as the cognitive atlas. Second, get the papers - hitting paywalls has never hurt so much! - and understand the feasibility of it all. Third, dive into the neuroquery code base - as we believe that it is the tool out there closer to what we have in mind (e.g., could we have a version of this that returns only clinically relevant information?)
   positions:
-  - designation: OHBM hackathon here we come!
-    start: June 1st
-    end: 2022
-    responsibilities:
-    - You can find ou
-    - you will do X and Z
+  - designation: PhD student(s)
+    start: June 16st 2022
+    end: June 18st 2022
+
 
 - company:
-    name: We are launching our website and repository.
+    name: We are launching our website and repository. Find out more at https://github.com/neurocausal
   positions:
   - designation: We're live!
     start: April 1st
     end: 2022
     responsibilities:
-    - You can find ou
-    - you will do X and Z
+    - You can check out here https://github.com/neurocausal
 
 - company:
-    name: 'We have been accepted to the 5th cohort of the Open Life Science program <a href="https://openlifesci.org/">OLS</a>'
+    name: 'We have been accepted to the 5th cohort of the Open Life Science program! We look forward to learning more about how to build, develop, and mantain an open science project.'
   positions:
   - designation: Hello World!
-    start: March 1st
+    start: February 1st
     end: 2022
     responsibilities:
-    - you will do X and Z
-    - you will do X and Z
+    - You can check out here https://openlifesci.org/
