@@ -1,3 +1,3 @@
-# Website for our Lab
+# Website for our NeuroCausal
 
 Created with hugo static site with Toha theme.
