@@ -14,7 +14,7 @@ designation: An open data sharing and metadata synthesis platform for clinical d
 summary: 'We are working with clinicians, neuroimagers, and software developers to develop an open source platform for the storage, sharing, synthesis and meta-analysis of human clinical data to the service of the clinical and cognitive neuroscience community so that the future of neuropsychology can be transdiagnostic, open, and FAIR.
 
 
-Following the steps of what enable a similar transition in functional neuroimaging, we are breaking down our over-ambitious goal in two stages: (1) create a sort of spin-off of Neuroquery that only covers lesion-related data hence allowing causal inferences; (2) a Neurovault kind of tool facilitating sharing of clinical data.'
+Following the steps of what enable a similar transition in functional neuroimaging, we are breaking down our over-ambitious goal in two stages: (1) create a meta-analytical platform covering lesion-related data hence allowing causal inferences; (2) a data-sharing platform taylored to clinical needs.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

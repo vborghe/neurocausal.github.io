@@ -11,17 +11,17 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Dr. Valentina Borghesani, Ph.D.
+- name: Valentina Borghesani
   #logo: images/sections/skills/me2.svg
   summary: "Assistant Professor in the Psychology Department of the University of Geneva, studying the cognitive and neural correlates of semantic knowledge and their interplay with language"
   url: "https://linktr.ee/vborghesani"
 
-- name:  Dr. Sladjana Lukic, Ph.D.
+- name:  Sladjana Lukic
   #logo: /images/sections/skills/sladja.svg
   summary: "Assistant Professor in the Communication Sciences and Disorders Department of Adelphi University, studying the neurobiology of language and its relation with emotion & cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
-- name: Dr. Pedro Chagas, Ph.D.
+- name: Pedro Pinheiro-Chagas
   #logo: /images/sections/skills/docker.svg
   summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
   url: "https://pinheirochagas.com/"

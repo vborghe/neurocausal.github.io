@@ -14,13 +14,13 @@ accomplishments:
   organization:
     name: Automated meta-analysis of neuroimaging studies.
     url: https://neuroquery.org/
-  courseOverview: Produces brain maps predicting where a study on the topic of interest is likely report observations
+  courseOverview: Given the topic X, it produces a brain map predicting where a functional study on that topic is likely report activations.
 
 - name: Neurosynth
   organization:
     name: Automated meta-analysis of fMRI studies.
     url: https://neurosynth.org/
-  courseOverview: Tests the consistency of observations reported in the literature
+  courseOverview: Given the topic X, it produces a brain map assessing the consistency of the associated functional observations in the literature. 
 
 - name: Neurovault
   organization:
@@ -32,4 +32,4 @@ accomplishments:
   organization:
     name: Cognitive neuroscience ontology 
     url: https://www.cognitiveatlas.org/
-  courseOverview: A project developing knowledge base for cognitive neuroscience. 
+  courseOverview: A project developing knowledge base for cognitive neuroscience - what tasks are we talking about? what cognitive processes?
