@@ -12,13 +12,18 @@ section:
 experiences:
 
 - company:
-    name: OHBM hackathon here we come!
-    overview: We are planning on attending the OHBM hackathon to work on the development of the platform. Our short-term goals can be broken into three steps. First, define which vocabulary we need to enable the mapping lesion-to-symptom;  an ontological problem we are trying to solve merging our clinical expertise with community tools such as the cognitive atlas. Second, get the papers - hitting paywalls has never hurt so much! - and understand the feasibility of it all. Third, dive into the neuroquery code base - as we believe that it is the tool out there closer to what we have in mind (e.g., could we have a version of this that returns only clinically relevant information?)
+    name: We are attending BH Donostia, BH Geneva and BH Bay Area 
   positions:
-  - designation: PhD student(s)
+  - designation: It's Brainhack Global time!
+    start: Nov 23th 2022
+    end: Dec 9th 2022
+
+- company:
+    name: We are planning on attending the OHBM hackathon to work on the development of the platform. Our short-term goals can be broken into three steps. First, define which vocabulary we need to enable the mapping lesion-to-symptom;  an ontological problem we are trying to solve merging our clinical expertise with community tools such as the cognitive atlas. Second, get the papers - hitting paywalls has never hurt so much! - and understand the feasibility of it all. Third, dive into the neuroquery code base - as we believe that it is the tool out there closer to what we have in mind (e.g., could we have a version of this that returns only clinically relevant information?)
+  positions:
+  - designation: OHBM hackathon here we come!
     start: June 16st 2022
     end: June 18st 2022
-
 
 - company:
     name: We are launching our website and repository. We know this is going to be a long journey, but you check out how it is going at https://github.com/neurocausal
