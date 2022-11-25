@@ -105,7 +105,7 @@ other = "Read"
 other = "Star"
 
 [project_details]
-other = "Details & Publications"
+other = "Let's go!"
 
 [err_404]
 other = "The page you are looking for is not there yet."

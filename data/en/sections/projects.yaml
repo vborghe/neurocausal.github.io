@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Projects
+  name: Can we help you...
   id: projects
-  enable: False
+  enable: True
   weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -12,57 +12,32 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: fMRI
-  filter: "fMRI"
-- name: MEG
-  filter: "MEG"
-- name: EEG
-  filter: "EEG"
-- name: Neuropsychology
-  filter: "Neuropsychology"
-- name: Behavioral
-  filter: "Behavioral"
+- name: meta
+  filter: "meta"
+- name: share
+  filter: "share"
+- name: neuropsych
+  filter: "neuropsych"
 
 # your projects
 projects:
-- name: Representing words & concepts
+- name: doing a meta-analysis?
   logo: images/author/1299786.svg
-  role: NoCe members, Drs. Piazza & xxx
-  url: "posts/research/representing/"
-  summary: What are the neuro-cognitive correlates of semantic knowledge? We use neuroimaging to study the distributed yet specialized cortical networks involved.
-  tags: ["fMRI","MEG"]
+  role: Enabling syntesis and meta-analysis of neuropsychological data.
+  url: "posts/platform/meta/"
+  summary: Click here to try out our automated meta-analysis of neuropsychological data.
+  tags: ["meta", "neuropsych"]
 
-- name: Loosing words & concepts
+- name: sharing your data?
   logo: images/author/1299786.svg
-  role:  NoCe members, Drs. Gorno-Tempini & Lukic
-  url: "posts/research/loosing/"
-  summary: We also study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
-  tags: ["MEG", "Neuropsychology"]
+  role:  Enabling neuropsychological data sharing.
+  url: "posts/platform/share/"
+  summary: Click here to share your neuropsychological data.
+  tags: ["share", "neuropsych"]
 
-- name: Learning words & concepts
+- name: searching for data?
   logo: images/author/1299786.svg
-  role: NoCe members, Drs. Piazza, Vigano & Bilgin
-  url: "posts/research/learning/"
-  summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
-  tags: ["fMRI", "EEG"]
-
-- name: Concepts across languages and cultures
-  logo: images/author/1299786.svg
-  role: NoCe members
-  url: "posts/research/multi/"
-  summary: We are interested in cross-linguistic and cross-culturale differences.
-  tags: ["fMRI", "Neuropsychology"]
-
-- name: Concepts & words across people
-  logo: images/author/1299786.svg
-  role: NoCe members, Drs. Gorno-Tempini & Chagas
-  url: "posts/research/langnetwork/"
-  summary: We are interested in individual differences in language processing.
-  tags: ["fMRI"]
-
-- name: Mathematical Cognition
-  logo: images/author/1299786.svg
-  role: NoCE members, Drs. Gorno-Tempini & Chagas
-  url: "posts/research/math/"
-  summary: Both in normal and pathological conditions, we study a special set of concepts - math ones.
-  tags: ["fMRI", "Neuropsychology"]
+  role:  Enabling querying of neuropsychological data.
+  url: "posts/platform/share/"
+  summary: Click here to search our database of neuropsychological data.
+  tags: ["share", "neuropsych"]
