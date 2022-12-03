@@ -33,3 +33,15 @@ accomplishments:
     name: Cognitive neuroscience ontology 
     url: https://www.cognitiveatlas.org/
   courseOverview: A project developing knowledge base for cognitive neuroscience - what tasks are we talking about? what cognitive processes?
+
+- name: References
+  organization:
+    name: Our bibliographic references
+    url: https://www.zotero.org/groups/4704047/neurocausal
+  courseOverview: All the references that we can use. 
+
+- name: BIDS phenotypes
+  organization:
+    name: Phenotypic data in BIDS
+    url: https://osf.io/35sxv/
+  courseOverview: New guidelines for phenotypic data in Brain Imaging Data Structure (BIDS) 
